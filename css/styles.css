@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(120, 129, 180);
+}
+
+div#baseDiv {
+    width:99%;
+    height:99%;
+    position:relative;
+}
